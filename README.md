@@ -64,8 +64,8 @@ fpSol = fopen("LISTS\\SOLUTION.TXT", "r");
 ```
 into 
 ```
-fpAll = fopen("LISTS/ALL.TXT", "r");
-fpSol = fopen("LISTS/SOLUTION.TXT", "r");
+fpAll = fopen("lists/ALL.TXT", "r");
+fpSol = fopen("lists/SOLUTION.TXT", "r");
 ```
 ## Function header changes:
 ```bool checkWord(const char * guess)``` 
