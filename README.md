@@ -15,8 +15,9 @@ To the right of this information you can see which letters of the alphabet haven
 
 ## How to build
 clone the repository with 
-´´´bash
-git clone https://github.com/pmanjon/ECS-36B-homework1.git´´´
+```bash
+git clone https://github.com/pmanjon/ECS-36B-homework1.git
+```
 
 run make:
 
